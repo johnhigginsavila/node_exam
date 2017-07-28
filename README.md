@@ -1,6 +1,6 @@
-# sails-angular2
+# node_exam
 
-A sample Sails and Angular 2 starter app
+
 
 To run this you will need typescript compiler and npm/node installed and setup.
 
